@@ -1,0 +1,31 @@
+{
+  "firstName": "Polina",
+  "lastName": "Evseeva",
+  "position":"Junior QA Engineer",
+  "phoneNumber":"+375295061136",
+  "location":"Minsk",
+  "hardSkills":["Ability to analyze and interpret data","strong attention to detail and accuracy","test planning and execution","test case development","bug identification and documentation","SQL Basic level","HTML Basic level","Jmeter Basic level","Postman Basic level","Git Basic level"],
+  "softSkills":["effective communication", "problem-solving skills","active listening","team work","adaptability to changes","time and project management","сritical thinking","language proficiency","empathy", "learn from past experience"],
+  "contacts":"polinaevseeva85@gmail.com",
+  "languages":["English", "Russian", "Spanish"],
+  "workExperience":[
+    {
+    "company":"ZARA BLR",
+    "position":"shop assistant-cashier",
+    "years":"2021-2023",
+    "responsibilities":[
+      "working with a large number of customers", 
+      "working at the checkout", 
+      "simultaneously performing various tasks",
+	  "assessing customer needs",
+	  "working in a team",
+	  "working in a high-pressure environment",
+	  "working with retail equipment",
+	  ]
+    }     
+  ],
+  "education":"MSLU",
+  "links":"www.linkedin.com/in/polinaevseeva",
+  "certificates":"Software Testing Engineer. Basic level. BelHard Academy",
+  "interests":["travelling", "dancing", "art", "reading", "sport", "learning new"]
+}
